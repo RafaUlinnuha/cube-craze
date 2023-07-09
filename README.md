@@ -1,14 +1,22 @@
-# Deskripsi Game
+# Cube Craze
+
+## Deskripsi Game
 Permainan Tetris 3D yang mengharuskan pemain untuk menggunakan strategi dalam mengatur blok-blok agar dapat membentuk garis horizontal dengan cepat. Semakin banyak garis horizontal yang berhasil dibuat, semakin banyak poin yang akan diperoleh pemain. Semakin lama durasi permainan, maka kecepatan turunnya balok akan bertambah.
 
-# Fitur-fitur Game
+## Fitur-fitur Game
 1. Level 1-10
 2. Block Speed
 3. Block Rotation
 4. Ghost Block
 5. Preview Block
+
+## Perangkat lunak yang digunakan
+1. Unity
+2. Visual Studio Code
+3. Blender
+4. Figma
    
-# Tampilan Game
+## Tampilan Game
 
 1. Main Menu
 
